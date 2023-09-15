@@ -1,5 +1,5 @@
 ---
-title: Lucy Oliveria
+title: Lucy Oliveira
 role: Professora de Ciência Política
 avatar_filename: avatar.jpg
 bio: ""
