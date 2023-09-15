@@ -1,7 +1,7 @@
 ---
 title: Lucy Oliveria
-role: Professor of Artificial Intelligence
-avatar_filename: lucy.png
+role: professor com ctz
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
