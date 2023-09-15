@@ -28,9 +28,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Oliveira
 highlight_name: true
-first_name: Alice
+first_name: Lucy
 email: ""
 ---
 <!--StartFragment-->
