@@ -4,8 +4,9 @@ role: Professora de Ciência Política
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Meus interesses de pesquisa incluem comunicação política
-  - raça e gênero.
+  - comunicação política
+  - raça
+  - gênero.
 social:
   - icon: cv
     icon_pack: ai
