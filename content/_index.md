@@ -12,24 +12,24 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 # block: features
+   # content:
+    #  title: Skills
+     # items:
+      #  - name: R
+       #   description: 90%
+        # icon: r-project
+          # icon_pack: fab
+       # - name: Statistics
+        #  description: 100%
+         # icon: chart-line
+         # icon_pack: fas
+       # - name: Photography
+        #  description: 10%
+         # icon: camera-retro
+         # icon_pack: fas
+  - block: Aulas Ministradas
     content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-  - block: experience
-    content:
-      title: Experience
+      title: Aulas ministradas
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -39,13 +39,10 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: POLITICA CONTEMPORANEA 1
+          company: UFSCar
+          date_start: '2022-05-01'
+          date_end: '2022-10-01'
           description: |2-
               Responsibilities include:
 
