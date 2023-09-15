@@ -1,48 +1,29 @@
 ---
 title: Lucy Oliveria
-role: professor com ctz
+role: Professora de Ciência Política
 avatar_filename: avatar.jpg
-bio: Meus interesses de pesquisa incluem comunicação política, raça e gênero.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Meus interesses de pesquisa incluem comunicação política
+  - raça e gênero.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidade Federal De São Carlos (UFSCAR)
+    url: https://www.ufscar.br/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doutorado em Ciencia Politica.
+      institution: Universidade Federal de São Carlos
+      year: ""
+    - course: Mestrado em Sociologia.
+      institution: Universidade Federal de Alagoas
+      year: ""
+    - course: Graduação em Jornalismo.
+      institution: Universidade Federal de Alagoas
+      year: ""
 superuser: true
 status:
   icon: ☕️
